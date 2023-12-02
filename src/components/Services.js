@@ -36,7 +36,7 @@ const Services = () => {
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">Mobile App Development</h2>
                                     <p className="text-md font-medium">
-                                        We develop high-quality, custom cross-platform mobile applications that are robust and optimized for performance, scalability, and accessibility.
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea, sequi maiores numquam delectus nam ad porro ullam sit nobis, ratione quis asperiores. Totam iste illum doloremque, officiis veritatis voluptatibus officia.
                                     </p>
                                 </div>
                             </div>
