@@ -24,7 +24,6 @@ function App() {
         easing: 'ease-out-cubic',
       });
     }
-
     window.addEventListener('load', () => {
       aos_init();
     });

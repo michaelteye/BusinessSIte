@@ -18,7 +18,7 @@ const Footer = () => {
                             <div className='text-md font-medium text-gray-600'>
                                 <h5>Good Seed</h5>
                                 <p>Adeiso</p>
-                                <p>Eastern</p>
+                                <p>slaughterhouse.</p>
                                 <p>Ghana</p>
                             </div>
                         </div>
@@ -45,16 +45,19 @@ const Footer = () => {
                         <h6 className="text-[#013289] text-xl font-bold mb-4">OUR SERVICES</h6>
                         <ul className="text-md">
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Web Development</Link>
+                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Installation and Maintenance</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Mobile App Development</Link>
+                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Training Programs</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Domain and Hosting</Link>
+                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Energy Efficient Solutions</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">General IT Consultations</Link>
+                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Consultation and Planning</Link>
+                        </li>
+                        <li className="mb-2">
+                            <Link to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Emergency Services</Link>
                         </li>
                         </ul>
                     </div>
@@ -98,7 +101,7 @@ const Footer = () => {
                         to="#"
                         className=" hover:text-gray-900"
                     >
-                        Good Seed
+                        Idealseedelectricalworks
                     </HashLink>. All rights reserved.
                     </div>
                 </div>
